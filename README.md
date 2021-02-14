@@ -1,6 +1,8 @@
 # sprk-mc1
 SPRK Music Controller 1
 
+![alt text](https://github.com/Sprk-nl/sprk-mc1/blob/main/image/SPRK-MC1_Small.JPG?raw=true)
+
 This project has some stages, of which the bold one is active
 - Sketch design
 - **Hardware order**
