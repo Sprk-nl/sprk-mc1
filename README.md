@@ -11,7 +11,8 @@ What will this Midi / Music controller do?
 - Press once to show menu on top half turn to select, press again to choose.
 
 ### Right rotary
-Change the last selected function on screen
+- Change the last selected function on screen
+
 
 **To get there, I have a few primary objectives:**
 - Powered via USB
