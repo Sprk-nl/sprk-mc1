@@ -5,7 +5,7 @@ SPRK Music Controller 1
 
 This project has some stages, of which the bold one is active
 - Sketch design
-- **Hardware order**
+- **Hardware order** (see BOM)
 - Breadboard
 - Code primary objectives
 - Code seconday objectives
