@@ -33,6 +33,11 @@ This project has some stages, of which the bold one is active
 - Sync to MIDI clock as slave
 - print synced BPM on screen, with a 4 count
 - Able to quick add an LFO to a pad, static of learn dynamic on the fly
-- Read SD card data, for menu config
+- Enabling deep-page to attach menu's to hardware / midi channels, and switch easily in-between.
+- Read SD card data, for config
 - Add a distance controller with IR/sonar
 - draw LFO on screen and send out
+- Have a complete other purpose with the same design?
+  - IRC chat integration to notify and show you (tagged) messages
+  - Work with processing to adjust other pheriples or video equipment
+  - act as an OBS short-cut keypad
