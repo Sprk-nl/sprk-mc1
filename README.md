@@ -1,10 +1,17 @@
 # sprk-mc1
 SPRK Music Controller 1
 
-This project has changed from design to hardware ordering phase.
-Next-up will be the breadboard and code part.
+This project has some stages, of which the bold one is active
+- Sketch design
+- **Hardware order**
+- Breadboard
+- Code primary objectives
+- Code seconday objectives
+- 3D design case
+- print case
+- Expand Feature
 
-What will this Midi / Music controller do?
+# What will this Midi / Music controller do?
 
 ## Functions
 ### left rotary
