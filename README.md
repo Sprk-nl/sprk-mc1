@@ -14,11 +14,12 @@ This project has some stages, of which the bold one is active
 # What will this Midi / Music controller do?
 
 ## Functions
+### Touch screen
+- select one (or multiple) pads from the 4x4 on screen to select a midi CC value to adjust
 ### left rotary
 - Press once to show menu on top half turn to select, press again to choose.
-
 ### Right rotary
-- Change the last selected function on screen
+- Change the value of the selected pad(s) on screen.
 
 
 **To get there, I have a few primary objectives:**
@@ -29,7 +30,7 @@ This project has some stages, of which the bold one is active
 - Leave room on the top for additional information
 - Send out MIDI note or CC
 
-** And sure, seconday objectives will make all the fun, so share you requests with the project.
+**The seconday objectives will give it all the fun, so share you requests with the project.**
 - Sync to MIDI clock as slave
 - print synced BPM on screen, with a 4 count
 - Able to quick add an LFO to a pad, static of learn dynamic on the fly
@@ -37,6 +38,8 @@ This project has some stages, of which the bold one is active
 - Read SD card data, for config
 - Add a distance controller with IR/sonar
 - draw LFO on screen and send out
+- Save custom LFO's
+- select X-Y functions and draw the X-Y position, with the option of adding an LFO
 - Have a complete other purpose with the same design?
   - IRC chat integration to notify and show you (tagged) messages
   - Work with processing to adjust other pheriples or video equipment
