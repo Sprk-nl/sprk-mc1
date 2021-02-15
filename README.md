@@ -39,6 +39,7 @@ This project has some stages, of which the bold one is active
 - Enabling deep-page to attach menu's to hardware / midi channels, and switch easily in-between.
 - Read SD card data, for config
 - Add a distance controller with IR/sonar
+- Add touch-fader to have immediate placement control instead of the knob.
 - draw LFO on screen and send out
 - Save custom LFO's
 - select X-Y functions and draw the X-Y position, with the option of adding an LFO
@@ -46,3 +47,4 @@ This project has some stages, of which the bold one is active
   - IRC chat integration to notify and show you (tagged) messages
   - Work with processing to adjust other pheriples or video equipment
   - act as an OBS short-cut keypad
+  - Add 5V cv-outs to control
